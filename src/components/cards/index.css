@@ -1,0 +1,14 @@
+.textBox{
+    width: 400px;
+   height: 35px;
+   display: flex;
+   margin: auto;
+   margin-bottom: 10px;
+   align-items: center;
+   justify-content: center;
+}
+button {
+   margin-left: 10px; 
+}
+
+  

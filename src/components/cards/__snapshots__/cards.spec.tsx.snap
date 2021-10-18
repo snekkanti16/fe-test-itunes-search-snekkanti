@@ -1,0 +1,417 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/ should render Cards 1`] = `
+<div
+  data-testid="infScroll"
+>
+  <ul
+    class="MuiImageList-root"
+    style="margin: -2px;"
+  >
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground2-11 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="track"
+          class="makeStyles-card-7"
+          src="https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/a9/75/07/a97507a8-4316-2b93-3deb-dff6041d2d79/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          song
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          Lil Wayne
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Track Name : 
+          John (feat. Rick Ross)
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Tha Carter IV (Complete Edition)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/21/48/21/214821c2-c2e3-bd4b-3d59-94fd3430da13/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          Daryl Hall & John Oates
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          The Very Best of Daryl Hall & John Oates
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/7a/cf/a6/7acfa6c2-c328-e7fc-91be-dfedfc36a774/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          John Mellencamp
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Words & Music: John Mellencamp's Greatest Hits
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/00/17/e2/0017e23d-7aab-88d0-062b-2c6a82b12658/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          John Denver
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          The Essential John Denver
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a9/5c/65/a95c653b-3265-145a-db68-086bea3ee876/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          John Mayer
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Continuum
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground2-11 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="track"
+          class="makeStyles-card-7"
+          src="https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/b5/85/44/b5854454-4797-cdb3-26e4-beeecf96e9af/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          song
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          Lil Wayne
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Track Name : 
+          John (feat. Rick Ross)
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Tha Carter IV
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/04/94/49/049449fe-1571-c1e5-3908-f5994f7b40c1/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          John Legend
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Love in the Future (Expanded Edition)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/a0/9d/82/a09d8297-ea64-bbac-829d-945c7668ee1c/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          Jim Jacobs & Warren Casey, John Travolta & Olivia Newton-John
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          Grease (The Original Soundtrack from the Motion Picture)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/32/49/81/3249814f-fc58-5988-85b3-e9c99e218f04/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          Daryl Hall & John Oates
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          The Essential Daryl Hall & John Oates (Remastered)
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-root-5"
+      data-testid="grid"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-6 makeStyles-cardBackground1-10 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <img
+          alt="collection"
+          class="makeStyles-card-7"
+          src="https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/10/5f/b0/105fb0d6-e25f-a964-7955-e30df462acad/source/100x100bb.jpg"
+        />
+        <div
+          class="makeStyles-cardType-9"
+        >
+          (
+          Album
+          )
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Artist Name : 
+          John Michael Montgomery
+        </div>
+        <div
+          class="makeStyles-desc-8"
+        >
+          Collection Name : 
+          The Very Best of John Michael Montgomery
+        </div>
+      </div>
+    </div>
+  </ul>
+  <div
+    class="loader"
+    data-testid="loader"
+  >
+    Loading ...
+  </div>
+</div>
+`;
+
+exports[`/ should render With iTunes Search Form 1`] = `
+<div>
+  <div>
+    <h3>
+       iTunes Search 
+    </h3>
+    <div>
+      <form
+        class="textBox"
+      >
+        <div>
+          <input
+            id="searchTerm"
+            placeholder="Search By Term"
+            type="search"
+            value="John"
+          />
+          <button>
+            Search
+          </button>
+        </div>
+      </form>
+      <div
+        class="makeStyles-root-1"
+      >
+        <div
+          data-testid="infScroll"
+        >
+          <ul
+            class="MuiImageList-root"
+            style="margin: -2px;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`/ should render on itunes Search 1`] = `
+<div
+  data-testid="infScroll"
+>
+  <ul
+    class="MuiImageList-root"
+    style="margin: -2px;"
+  />
+  <div
+    class="loader"
+    data-testid="loader"
+  >
+    Loading ...
+  </div>
+</div>
+`;

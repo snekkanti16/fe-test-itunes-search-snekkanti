@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/ should render the Album Card 1`] = `
+<div>
+  <div
+    class="MuiGrid-root makeStyles-root-8"
+    data-testid="grid"
+  >
+    <div
+      class="MuiPaper-root makeStyles-paper-9 makeStyles-cardBackground1-13 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <img
+        alt="collection"
+        class="makeStyles-card-10"
+        src="https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/21/48/21/214821c2-c2e3-bd4b-3d59-94fd3430da13/source/100x100bb.jpg"
+      />
+      <div
+        class="makeStyles-cardType-12"
+      >
+        (
+        Album
+        )
+      </div>
+      <div
+        class="makeStyles-desc-11"
+      >
+        Artist Name : 
+        Daryl Hall & John Oates
+      </div>
+      <div
+        class="makeStyles-desc-11"
+      >
+        Collection Name : 
+        The Very Best of Daryl Hall & John Oates
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`/ should render the Track Card 1`] = `
+<div>
+  <div
+    class="MuiGrid-root makeStyles-root-1"
+    data-testid="grid"
+  >
+    <div
+      class="MuiPaper-root makeStyles-paper-2 makeStyles-cardBackground2-7 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <img
+        alt="track"
+        class="makeStyles-card-3"
+        src="https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/a9/75/07/a97507a8-4316-2b93-3deb-dff6041d2d79/source/100x100bb.jpg"
+      />
+      <div
+        class="makeStyles-cardType-5"
+      >
+        (
+        song
+        )
+      </div>
+      <div
+        class="makeStyles-desc-4"
+      >
+        Artist Name : 
+        Lil Wayne
+      </div>
+      <div
+        class="makeStyles-desc-4"
+      >
+        Track Name : 
+        John (feat. Rick Ross)
+      </div>
+      <div
+        class="makeStyles-desc-4"
+      >
+        Collection Name : 
+        Tha Carter IV (Complete Edition)
+      </div>
+    </div>
+  </div>
+</div>
+`;
